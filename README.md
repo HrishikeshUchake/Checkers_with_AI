@@ -9,7 +9,7 @@ This project implements an AI agent capable of playing checkers (English draught
 
 ### Compilation
 ```bash
-cd /path/to/proj2
+cd /path/to/repo
 javac -d . *.java
 ```
 
