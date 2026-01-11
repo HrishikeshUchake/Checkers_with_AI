@@ -1,4 +1,4 @@
-# Checkers AI Agent - Project 2
+# Checkers AI Agent
 
 ## Overview
 This project implements an AI agent capable of playing checkers (English draughts) against a human player. The implementation includes three different game-playing strategies:
